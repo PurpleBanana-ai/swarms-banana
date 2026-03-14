@@ -1,3 +1,5 @@
+## WARNING COPY OF ORIGINAL REPO: 
+
 <div align="center">
   <a href="https://swarms.world">
     <img src="https://github.com/kyegomez/swarms/blob/master/images/new_logo.png" style="margin: 15px; max-width: 350px" width="80%" alt="Logo">
